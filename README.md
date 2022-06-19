@@ -6,10 +6,16 @@ This is web shop with backend.
 ---
 This is our firts team project
 
+Project Developers:
+---
 
-* TeamLead/Dev: Cppshizoid
+* TeamLead/Dev: 
+* N: Krivoschecov Alexandr
+* G: Cppshizoid
 
-* Dev: Osimjon
+* Dev: 
+* N: Max Boboev
+* G: Osimjon
 
 Used Techbologies:
 
