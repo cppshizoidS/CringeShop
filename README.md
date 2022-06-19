@@ -1,6 +1,9 @@
 # CringeShop
 ---
 
+This is web shop with backend.
+
+---
 This is our firts team project
 
 
