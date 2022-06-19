@@ -42,5 +42,8 @@ Condition of project:
 
 This repo is covered under [The GPL-v3.0 License](LICENSE).
 
+### Our code of conduct
+
+
 ---
 ![](https://img.shields.io/tokei/lines/github/cppshizoidS/CringeShop)
