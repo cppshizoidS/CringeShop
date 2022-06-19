@@ -10,12 +10,12 @@ Project Developers:
 ---
 
 <ul>
-  <li>Backend
+  Backend:
   <li>N: Krivoschecov Alexandr
   <li>G: cppshizoidS
 </ul>
 <ul>
-  <li>Frontend
+  Frontend:
   <li>N: Max Boboev
   <li>G: Osimjon
 </ul>
