@@ -11,6 +11,9 @@ This is our firts team project
 
 * Dev: Osimjon
 
+Used Techbologies:
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
 ## License
 
 This repo is covered under [The GPL-v3.0 License](LICENSE).
