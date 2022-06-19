@@ -9,13 +9,14 @@ This is our firts team project
 Project Developers:
 ---
 
-* TeamLead/Dev: 
-* N: Krivoschecov Alexandr
-* G: Cppshizoid
-
-* Dev: 
-* N: Max Boboev
-* G: Osimjon
+<ul>
+  <li>N: Krivoschecov Alexandr
+  <li>G: cppshizoidS
+</ul>
+<ul>
+  <li>N: Max Boboev
+  <li>G: Osimjon
+</ul>
 
 Used Techbologies:
 
