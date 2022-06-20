@@ -8,7 +8,8 @@ This is our firts team project
 
 Project Developers:
 ---
-
+*N - name of member
+*G - GitHub account
 <ul>
   Backend:
   <li>N: Krivoschecov Alexandr
