@@ -36,7 +36,7 @@ Used Techbologies:
 
 
 Condition of project:
-* Planning and discussion of this project
+* Active work
 
 
 ## License
